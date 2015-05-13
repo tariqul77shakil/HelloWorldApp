@@ -1,0 +1,5 @@
+C:\Users\Web App Develop .Net\Desktop\My Test Dot Net\15.04.15 (Day 01)\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe.config
+C:\Users\Web App Develop .Net\Desktop\My Test Dot Net\15.04.15 (Day 01)\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe
+C:\Users\Web App Develop .Net\Desktop\My Test Dot Net\15.04.15 (Day 01)\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.pdb
+C:\Users\Web App Develop .Net\Desktop\My Test Dot Net\15.04.15 (Day 01)\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.exe
+C:\Users\Web App Develop .Net\Desktop\My Test Dot Net\15.04.15 (Day 01)\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.pdb
